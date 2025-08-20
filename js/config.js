@@ -160,6 +160,11 @@ const API_SITES = {
         name: '奥斯卡资源',
         adult: true
     },
+    md: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: '91麻豆',
+        adult: true
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
